@@ -38,12 +38,15 @@ git clone <YOUR_GIT_URL>
 cd <YOUR_PROJECT_NAME>
 npm install
 npm run dev
-📦 Deployment
+```
+## 📦 Deployment
+```
 This project is deployed on Netlify — every push to the main branch triggers an automatic deployment to:
 
 https://vinay-expenses-tracker.netlify.app/
-
-👨‍💻 About Me
+```
+## 👨‍💻 About Me
+```
 Hi, I’m Vinay Kumar, a passionate web developer who loves building efficient and elegant applications.
 Feel free to connect or collaborate!
 
@@ -54,6 +57,6 @@ Feel free to connect or collaborate!
 🔗 LinkedIn: [Your LinkedIn URL]
 
 🐦 Twitter: [Your Twitter Handle]
-
-🙌 Contributing
+```
+## 🙌 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
