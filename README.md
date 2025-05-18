@@ -20,6 +20,15 @@ An intuitive and responsive **Expense Tracker** web app designed to help you eff
 
 ---
 
+## 🖼️ Screenshots
+
+<p float="left">
+  <img src="./assets/dashboard.png" width="48%" alt="Dashboard Screenshot" />
+  <img src="./assets/expense-form.png" width="48%" alt="Expense Form Screenshot" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 | Frontend          | Backend           | Styling           |
@@ -38,6 +47,7 @@ git clone <YOUR_GIT_URL>
 cd <YOUR_PROJECT_NAME>
 npm install
 npm run dev
+
 ```
 ## 📦 Deployment
 ```
