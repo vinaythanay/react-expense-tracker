@@ -50,13 +50,12 @@ https://vinay-expenses-tracker.netlify.app/
 Hi, I’m Vinay Kumar, a passionate web developer who loves building efficient and elegant applications.
 Feel free to connect or collaborate!
 
-💼 Portfolio: [Your Portfolio URL]
+💼 Portfolio: [https://vinay21-portfolio.netlify.app/]
 
-📫 Email: your.email@example.com
+📫 Email: agathamudivinaykumar@gmail.com
 
-🔗 LinkedIn: [Your LinkedIn URL]
+🔗 LinkedIn: [https://www.linkedin.com/in/agathamudi-vinay-kumar-0677a4235/]
 
-🐦 Twitter: [Your Twitter Handle]
 ```
 ## 🙌 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
