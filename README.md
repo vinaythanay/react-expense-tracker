@@ -24,7 +24,7 @@ An intuitive and responsive **Expense Tracker** web app designed to help you eff
 
 <p float="left">
   <img src="./assets/dashboard.png" width="48%" alt="Dashboard Screenshot" />
-  <img src="./assets/expense-form.png" width="48%" alt="Expense Form Screenshot" />
+  <img src="./assets/expenses-graph.png" width="48%" alt="Expense Form Screenshot" />
 </p>
 
 ---
